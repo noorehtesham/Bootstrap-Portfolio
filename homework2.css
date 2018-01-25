@@ -1,0 +1,14 @@
+image {
+	clear:both;
+	float:left;
+}
+span {
+	float:right;
+}
+.footer{
+	clear: both;
+	text-align: center;
+}
+#filler {
+	height: 200px;
+}
